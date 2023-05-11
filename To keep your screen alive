@@ -1,0 +1,6 @@
+To keep your screen alive
+screen -Rd
+Ctrl+A  => + C             - New Screen
+                   + N             -Next
+                   + P              - Previous
+                   + ESC         - Scroll
